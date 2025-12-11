@@ -1,5 +1,5 @@
 <div align="center">
-Developer Skills
+## Developer Skills
 </div>
 <div align="center">
 <table>
