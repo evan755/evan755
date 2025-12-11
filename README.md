@@ -1,7 +1,7 @@
-## Developer Skills
+
 
 ---
-
+## Developer Skills
 <div align="center">
     <table>
     <tr>
